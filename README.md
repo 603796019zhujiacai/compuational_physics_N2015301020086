@@ -1,3 +1,4 @@
+
 # **HomeWorklist**
 ------------
 ![Einstein](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/preface/a7b470638aac70b4fce08fd90573ba9c.jpg)
@@ -32,6 +33,9 @@
 
 - [ ] work 4
 ## [Homework 4]()
+keh> *chapter 1 的课后习题（和第三次作业一样，再选一题），特别要求还要有appendix（用pygame做一个小游戏）
+> *
+> *
 
 
 
