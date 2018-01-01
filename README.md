@@ -78,14 +78,16 @@
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/971380)
 
 
-
 - [x] work 10
 ## [Homework 10]()
-
+>* chapter 5 的课后习题 (任选一题 5.3)
+>* [I am the homework](https://www.zybuluo.com/SnowArchy/note/971380)
 
 
 - [x] work 11
 ## [Homework 11]()
+>* chapter 6 的课后习题 (任选一题 6.6)
+>* [I am the homework](https://www.zybuluo.com/SnowArchy/note/971380)
 
 
 
