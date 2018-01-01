@@ -80,12 +80,11 @@
 
 
 - [x] work 10
-## [Homework 10]()
+## [Homework 10](https://www.zybuluo.com/SnowArchy/note/1004658)
 
 
 
-- [x] work 11
-## [Homework 11]()
+
 
 
 
