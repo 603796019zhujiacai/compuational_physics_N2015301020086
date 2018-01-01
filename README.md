@@ -79,13 +79,7 @@
 
 
 
-- [x] work 10
-## [Homework 10]()
 
-
-
-- [x] work 11
-## [Homework 11]()
 
 
 
