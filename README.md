@@ -80,12 +80,12 @@
 
 
 - [x] work 10
-## [Homework 10]()
+## [Homework 10](https://www.zybuluo.com/zhujiacai-789/note/1004622)
 
 
 
 - [x] work 11
-## [Homework 11]()
+## [Homework 11](https://www.zybuluo.com/SnowArchy/note/1004655)
 
 
 
